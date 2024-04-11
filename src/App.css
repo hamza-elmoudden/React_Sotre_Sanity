@@ -1,0 +1,21 @@
+
+.h{
+    height: calc(100vh + 76px) ;
+    background-image: url("./image/image2.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.p{
+    height: calc(100vh + 76px) ;
+}
+
+.bak{
+    background-image: url("./image/back.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
